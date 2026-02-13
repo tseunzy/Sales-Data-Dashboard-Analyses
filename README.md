@@ -143,3 +143,4 @@
     - Profit_by_category
     - Revenueby_salesperson.png
 
+# For my example i made use of profit as rev columnn thats the reason for the charts 
